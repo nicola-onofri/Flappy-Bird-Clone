@@ -4,33 +4,40 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="28700789285152"
-    token="-3998622928066876987"
-    verifier="FULL_BUILD_REQUESTED" >
+    timestamp="29654184718301"
+    token="-5575958890190349968"
+    verifier="FIELD_TYPE_CHANGE" >
 
     <task
         name="javac"
-        duration="329" />
+        duration="48" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="82" />
+        duration="5" />
     <task
         name="verifier"
-        duration="0" />
+        duration="1" />
 
     <artifact
-        location="/home/nicola/flappy bird/android/build/outputs/apk/android-debug.apk"
-        type="MAIN" />
+        location="/home/nicola/AndroidStudioProjects/Flappy Bird Clone/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="28700789285152"
+        timestamp="29570856254251"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/nicola/flappy bird/android/build/outputs/apk/android-debug.apk"
+            location="/home/nicola/AndroidStudioProjects/Flappy Bird Clone/android/build/outputs/apk/android-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="29654184718301"
+        verifier="FIELD_TYPE_CHANGE" >
+        <artifact
+            location="/home/nicola/AndroidStudioProjects/Flappy Bird Clone/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

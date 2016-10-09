@@ -1,7 +1,7 @@
-#Sun Oct 09 02:04:15 CEST 2016
-base.0=/home/nicola/flappy bird/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f9ba587de74010ffdcb212cdfe29ad1ffcf1700f
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/home/nicola/flappy bird/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_525668cf3e26b6de977add7c6e090c4ab18c3f44/classes.dex
-base.1=/home/nicola/flappy bird/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_525668cf3e26b6de977add7c6e090c4ab18c3f44
-file.0=/home/nicola/flappy bird/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f9ba587de74010ffdcb212cdfe29ad1ffcf1700f/classes.dex
+#Sun Oct 09 17:57:28 CEST 2016
+base.0=/home/nicola/AndroidStudioProjects/Flappy Bird Clone/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c0cdc38636353a221bc90c7046a896c394664dc9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/nicola/AndroidStudioProjects/Flappy Bird Clone/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0c34d3c4e7a8723ad1e3dc29289e557feb5125c8/classes.dex
+base.1=/home/nicola/AndroidStudioProjects/Flappy Bird Clone/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0c34d3c4e7a8723ad1e3dc29289e557feb5125c8
+file.0=/home/nicola/AndroidStudioProjects/Flappy Bird Clone/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c0cdc38636353a221bc90c7046a896c394664dc9/classes.dex

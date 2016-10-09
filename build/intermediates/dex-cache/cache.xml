@@ -3,6 +3,15 @@
 
     <item
         is-multidex="true"
+        jar="/home/nicola/AndroidStudioProjects/Flappy Bird Clone/android/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="00deca948fb02c1b05f5f6b64259790143554cb2">
+        <dex dex="/home/nicola/AndroidStudioProjects/Flappy Bird Clone/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0c34d3c4e7a8723ad1e3dc29289e557feb5125c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/nicola/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.4/4b4b7962d1bc75af0438f5c81ec1010557bc9ee5/gdx-1.9.4.jar"
         jumboMode="true"
         optimize="true"
@@ -36,6 +45,15 @@
         revision="24.0.3"
         sha1="ab8062326b95c961695705af9d296624c5bc84b7">
         <dex dex="/home/nicola/flappy bird/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f9ba587de74010ffdcb212cdfe29ad1ffcf1700f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nicola/AndroidStudioProjects/Flappy Bird Clone/android/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8caddc7bd2ef73c0736b961f068519c1a3c7d207">
+        <dex dex="/home/nicola/AndroidStudioProjects/Flappy Bird Clone/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c0cdc38636353a221bc90c7046a896c394664dc9/classes.dex" />
     </item>
     <item
         is-multidex="true"

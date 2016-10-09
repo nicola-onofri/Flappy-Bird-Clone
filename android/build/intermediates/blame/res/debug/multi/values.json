@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/nicola/flappy bird/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "outputFile": "/home/nicola/AndroidStudioProjects/Flappy Bird Clone/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 105
                 },
                 "from": {
-                    "file": "/home/nicola/flappy bird/android/res/values/strings.xml",
+                    "file": "/home/nicola/AndroidStudioProjects/Flappy Bird Clone/android/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -31,7 +31,7 @@
                     "endOffset": 568
                 },
                 "from": {
-                    "file": "/home/nicola/flappy bird/android/res/values/styles.xml",
+                    "file": "/home/nicola/AndroidStudioProjects/Flappy Bird Clone/android/res/values/styles.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
