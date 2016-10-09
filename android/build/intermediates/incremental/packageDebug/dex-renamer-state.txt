@@ -1,0 +1,7 @@
+#Sun Oct 09 02:04:15 CEST 2016
+base.0=/home/nicola/flappy bird/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f9ba587de74010ffdcb212cdfe29ad1ffcf1700f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/nicola/flappy bird/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_525668cf3e26b6de977add7c6e090c4ab18c3f44/classes.dex
+base.1=/home/nicola/flappy bird/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_525668cf3e26b6de977add7c6e090c4ab18c3f44
+file.0=/home/nicola/flappy bird/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f9ba587de74010ffdcb212cdfe29ad1ffcf1700f/classes.dex

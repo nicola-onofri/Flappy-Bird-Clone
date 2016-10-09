@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Sun Oct 09 01:44:57 CEST 2016
+2.base=/home/nicola/flappy bird/android/build/intermediates/res/resources-debug.ap_
+5.file=/home/nicola/flappy bird/android/build/intermediates/assets/debug/bg.png
+5.set=ASSET
+3.base=/home/nicola/flappy bird/android/build/intermediates/assets/debug
+6.file=/home/nicola/flappy bird/android/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=/home/nicola/flappy bird/android/build/intermediates/assets/debug
+7.file=/home/nicola/flappy bird/android/build/intermediates/assets/debug/bottomtube.png
+7.set=ASSET
+count=8
+0.file=/home/nicola/flappy bird/android/build/intermediates/assets/debug/toptube.png
+5.base=/home/nicola/flappy bird/android/build/intermediates/assets/debug
+4.set=ASSET
+6.base=/home/nicola/flappy bird/android/build/intermediates/res/resources-debug.ap_
+1.file=/home/nicola/flappy bird/android/build/intermediates/res/resources-debug.ap_/resources.arsc
+1.set=ANDROID_RESOURCE
+7.base=/home/nicola/flappy bird/android/build/intermediates/assets/debug
+2.file=/home/nicola/flappy bird/android/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+6.set=ANDROID_RESOURCE
+0.base=/home/nicola/flappy bird/android/build/intermediates/assets/debug
+3.file=/home/nicola/flappy bird/android/build/intermediates/assets/debug/bird.png
+3.set=ASSET
+1.base=/home/nicola/flappy bird/android/build/intermediates/res/resources-debug.ap_
+4.file=/home/nicola/flappy bird/android/build/intermediates/assets/debug/bird2.png
+0.set=ASSET

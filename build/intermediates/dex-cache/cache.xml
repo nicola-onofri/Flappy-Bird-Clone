@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/nicola/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.4/4b4b7962d1bc75af0438f5c81ec1010557bc9ee5/gdx-1.9.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4b4b7962d1bc75af0438f5c81ec1010557bc9ee5">
+        <dex dex="/home/nicola/flappy bird/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-1.9.4_427b8c901cb9d72442cb10504117403dcaa29cb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nicola/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.4/98a0d25c9f0637fecac6e4aacf7287aa635964f5/gdx-box2d-1.9.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="98a0d25c9f0637fecac6e4aacf7287aa635964f5">
+        <dex dex="/home/nicola/flappy bird/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-box2d-1.9.4_0cd6a7ce92590cb9d8fb254e1229b4952caec55b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nicola/flappy bird/android/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ad0fd8688e1edb58fccefce51ffe55d01a939525">
+        <dex dex="/home/nicola/flappy bird/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_525668cf3e26b6de977add7c6e090c4ab18c3f44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nicola/flappy bird/android/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ab8062326b95c961695705af9d296624c5bc84b7">
+        <dex dex="/home/nicola/flappy bird/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f9ba587de74010ffdcb212cdfe29ad1ffcf1700f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nicola/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.4/194b33382d6d58fad031521ba3331d926c476c9b/gdx-backend-android-1.9.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="194b33382d6d58fad031521ba3331d926c476c9b">
+        <dex dex="/home/nicola/flappy bird/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-backend-android-1.9.4_8501fa9b378f0da7de122731070143cf06deaa6c/classes.dex" />
+    </item>
+
+</items>
