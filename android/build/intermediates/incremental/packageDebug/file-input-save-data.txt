@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Oct 09 17:57:28 CEST 2016
+#Sun Oct 09 18:12:14 CEST 2016
 25.file=/home/nicola/AndroidStudioProjects/Flappy Bird Clone/android/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
 41.base=/home/nicola/AndroidStudioProjects/Flappy Bird Clone/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-1.9.4_427b8c901cb9d72442cb10504117403dcaa29cb0
 25.base=/home/nicola/AndroidStudioProjects/Flappy Bird Clone/android/build/intermediates/res/resources-debug.ap_

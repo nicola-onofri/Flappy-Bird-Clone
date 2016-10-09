@@ -27,8 +27,9 @@ public class FlappyBird extends ApplicationAdapter {
 
     //Constants
     public final float gravity = 1.5f;
-    public final float tube_gap = 400;
-    public final float distance_offset = 100;
+    public final float impulse = -27;
+    public final float tube_gap = 500;
+    public final float distance_offset = 200;
     public final int numberOfTubes = 4;
     public final float tube_speed = 4;
 
@@ -49,12 +50,16 @@ public class FlappyBird extends ApplicationAdapter {
 
         birds[0] = new Texture("bird.png");
         birds[1] = new Texture("bird2.png");
+//        birds[0] = new Texture("android-arms-up.png");
+//        birds[1] = new Texture("android-arms-down.png");
 
-        birdY = Gdx.graphics.getHeight() / 2 - birds[0].getHeight() / 2;
 
         tube_up = new Texture("toptube.png");
         tube_down = new Texture("bottomtube.png");
+
+        birdY = Gdx.graphics.getHeight() / 2 - birds[0].getHeight() / 2;
         tube_distance = Gdx.graphics.getWidth() / 2 + distance_offset;
+        maximumTubeOffset = Gdx.graphics.getHeight() / 2 - tube_gap / 2 - 100;
 
         randomNumberGenerator = new Random();
 
@@ -74,10 +79,16 @@ public class FlappyBird extends ApplicationAdapter {
         if (gameState != 0) { //Game is active
             if (Gdx.input.justTouched()) {
                 //Reset speed if the screen is touched
-                velocity = -30;
+                velocity = impulse;
             }
 
             for (int i = 0; i < numberOfTubes; i++) {
+
+                //Shift tubes back to the right side of the screen
+                if (tubeX[i] < -tube_up.getWidth()) {
+                    tubeX[i] += numberOfTubes * tube_distance;
+                }
+
                 tubeX[i] -= tube_speed;
                 batch.draw(tube_up, tubeX[i], Gdx.graphics.getHeight() / 2 + tube_gap / 2 + tube_offset[i]);
                 batch.draw(tube_down, tubeX[i], Gdx.graphics.getHeight() / 2 - tube_gap / 2 - tube_down.getHeight() + tube_offset[i]);
