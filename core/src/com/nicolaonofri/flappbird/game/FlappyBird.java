@@ -26,12 +26,12 @@ public class FlappyBird extends ApplicationAdapter {
     public int gameState = 0;
 
     //Constants
-    public final float gravity = 1.5f;
+    public final float gravity = 1.7f;
     public final float impulse = -27;
     public final float tube_gap = 500;
     public final float distance_offset = 200;
     public final int numberOfTubes = 4;
-    public final float tube_speed = 4;
+    public final float tube_speed = 8;
 
     //We use a set of 4 tubes on the screen and everytime a pair of tubes
     //reaches the left side of the screen we reset its position on the right side
